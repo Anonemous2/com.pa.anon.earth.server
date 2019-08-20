@@ -1,0 +1,17 @@
+{
+	"author": "Anonemous2",
+	"build": "113553",
+	"context": "server",
+	"date": "2019-8-20",
+	"display_name": "Real-Earth CSGs",
+	"description": "Enables play on systems with real-earth CSGs. Recommend that you read the forum before hosting with it:",
+	"forum": "https://forums.planetaryannihilation.com/threads/real-earth-csgs-v1-0.73409/",
+	"identifier": "com.pa.anon.earth.server",
+	"signature": "not yet implemented",
+	"version": "1.0",
+	"icon": "https://forums.planetaryannihilation.com/data/attachments/28/28262-d69cabc7a08607afeefae62ceb6a8cde.jpg", 
+	"category":
+	[
+		"CSG Addon"
+	]
+}
